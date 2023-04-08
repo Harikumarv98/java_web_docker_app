@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Ashok IT</a>
+			<a class="navbar-brand" href="#">Harish TV</a>
 		</div>
 	</div>
 </nav>
@@ -24,7 +24,7 @@
 		<h1>${title}</h1>
 		<p>
 			<c:if test="${not empty msg}">
-				Hello ${msg}
+				Hi ${msg}
 			</c:if>
 
 			<c:if test="${empty msg}">
@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Ashok IT..!!</h2>
+			<h2>Welcome To Harish TV..!!</h2>
 			<h3>Contact @ +91 - 9985296677 / 9985396677 / 6301921083 </h3>
 		</div>	
 	</div>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Ashok IT 2023</p>
+		<p>&copy; Harish TV 2023</p>
 	</footer>
 </div>
 
